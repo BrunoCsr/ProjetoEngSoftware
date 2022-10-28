@@ -1,16 +1,20 @@
-# prjct2
+# Mate o Rambo e lista desconexa
 
 A new Flutter project.
 
-## Getting Started
+## Para começar
 
-This project is a starting point for a Flutter application.
+Este projeto tem o intuito de demonstrar as habilidades desenvolvidas nos laboratórios de FLutter da disciplina de Engenharia de Software, como consumir APIs, realizar testes unitários, desenvolver uma CI pipeline e criar um README.
 
-A few resources to get you started if this is your first Flutter project:
+Trata-se, portanto, de uma aplicação sem muita utilidade, mas que demonstra os conhecimentos adquiridos durante o curso.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Como instalar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para utilizar o projeto será necessário instalar a sdk do Flutter e clonar este repositório.
+- [Instale a sdk:](https://docs.flutter.dev/get-started/install)
+
+
+## Como utilizar
+
+A aplicação é extremamente simples. No entanto, lembre-se de que não existe um objetivo concreto em utilizar este app, exceto pela tentativa de matar o Rambo. Dessa forma, vale explorar um pouco para ver o que acontece. Apenas clique nos botões.
+
